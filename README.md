@@ -32,3 +32,6 @@ be a fun project to make a tool that could solve this challenge automatically.
     ```bash
     python3 image_size_tool.py --input <input_file> --output <output_file> --width <width> --height <height>
     ```
+
+## License
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
